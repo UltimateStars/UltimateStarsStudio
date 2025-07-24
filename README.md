@@ -1,4 +1,4 @@
-<h1 align="center">🎮 NomeDoEstúdio</h1>
+<h1 align="center">🎮 UltimateStarsStudio</h1>
 <p align="center">Desenvolvendo mundos jogáveis. Um pixel por vez.</p>
 
 ---
@@ -15,14 +15,14 @@ Somos um estúdio independente de desenvolvimento de jogos com a missão de cria
 
 - 🎮 Game Engines: [Unity](https://unity.com/) / [Godot](https://godotengine.org/) / [Unreal](https://unrealengine.com/) *(ajuste conforme sua stack)*
 - 🧪 Prototipação e design: Figma, Krita, Tiled, etc.
-- 🧾 Back-end: Node.js / PostgreSQL *(caso tenha back-end)*
+- 🧾 Back-end: Node.js(express) / PostgreSQL 
 - ☁️ Versionamento e controle: Git + GitHub
 
 ## 📬 Contato
 
-📧 contato@seudominio.com *(ou redes sociais)*  
-🌐 [seusite.com](https://seusite.com) *(se tiver)*  
-🐦 [@SeuTwitter](https://twitter.com/SeuTwitter) *(opcional)*
+📧 ultimatestarsd.g@gmail.com
+
+
 
 ---
 
