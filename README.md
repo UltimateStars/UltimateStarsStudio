@@ -13,7 +13,7 @@ Somos um estúdio independente de desenvolvimento de jogos com a missão de cria
 
 ## 🛠️ Tecnologias que usamos
 
-- 🎮 Game Engines: [Unity](https://unity.com/) / [Godot](https://godotengine.org/) / [Unreal](https://unrealengine.com/) *(ajuste conforme sua stack)*
+- 🎮 Game Engines: [Unity](https://unity.com/) / [Godot](https://godotengine.org/) / [Unreal](https://unrealengine.com/) 
 - 🧪 Prototipação e design: Figma, Krita, Tiled, etc.
 - 🧾 Back-end: Node.js(express) / PostgreSQL 
 - ☁️ Versionamento e controle: Git + GitHub
